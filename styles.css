@@ -1,0 +1,64 @@
+/* Importacion de la fuente de google-fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+p{
+    color:black; 
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 20px;
+
+}
+
+ol{
+    color:chocolate;
+}
+
+ul {
+    color:chocolate;
+}
+
+h1,h2,h3,h4{
+color:cadetblue;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p, ol, ul {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+html {
+    background-color: darkmagenta;
+}
+body{
+    width: 800px;
+    margin: auto;
+    background-color: beige;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h1 {
+    margin: auto;
+    padding: 20px 0;
+    color: aqua;
+    text-shadow: 3px 3px 5px black;
+}
+img {
+    width: 350px;
+    background-color: antiquewhite;
+    padding: 0;
+    border: 5px solid black;
+    display: block;
+    margin: 0 auto;
+    
+}
